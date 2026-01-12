@@ -13,5 +13,9 @@ class Gafanhato:
         print(f'Olá, eu sou {self.nome}, tenho {self.idade} anos e sou do sexo {self.sexo}.')
 
 # Definição de um objeto
-gafanhato1 = Gafanhato('João', 20, 'M')
+gafanhato1 = Gafanhato('Carlos', 27, 'M')
+gafanhato1.aniversario()
 print(gafanhato1.mensagem())
+
+gafanhato2 = Gafanhato('Ana', 52, 'F')
+print(gafanhato2.mensagem())
