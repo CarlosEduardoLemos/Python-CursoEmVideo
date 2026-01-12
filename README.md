@@ -8,12 +8,27 @@ O curso é dividido em três partes principais:
 
 1. **Mundo 1**: Introdução ao Python
    - Primeiro mundo do curso introduz a linguagem, seus conceitos e ensina alguns recursos básicos.
+   - [Playlist do Mundo 1](https://youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&si=MXX1RSjucuY36NV-)
 
 2. **Mundo 2**: Estruturas de dados
    - O segundo mundo apresenta as estruturas de repetição, muito importantes para qualquer linguagem, o professor explica sobre os comandos if, else, for e while e suas usabilidades.
+   - [Playlist do Mundo 2](https://youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&si=Jt1iGLIDs2is7htp)
 
 3. **Mundo 3**: Manipulação de dados
-   - O terceiro mundo apresenta as estruturas de dados, muito importantes para qualquer linguagem, o professor explica sobre as estruturas de tuplas, listas, dicionários, além disso, ele também ensina funções, módulos e pacotes. 
+   - O terceiro mundo apresenta as estruturas de dados, muito importantes para qualquer linguagem, o professor explica sobre as estruturas de tuplas, listas, dicionários, além disso, ele também ensina funções, módulos e pacotes.
+   - [Playlist do Mundo 3](https://youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH&si=Anmp8C5je-WacOJ1)
+
+4. **Mundo 4**: Programação Orientada a Objetos (POO)
+   - O quarto mundo introduz o paradigma de Programação Orientada a Objetos, ensinando conceitos fundamentais como classes, objetos, herança, polimorfismo e encapsulamento. Este mundo prepara o aluno para aplicar princípios de POO em projetos mais complexos e profissionais.
+   - [Playlist do Mundo 4 - POO](https://youtube.com/playlist?list=PLHz_AreHm4dn_RXXoa3Ameh77f95Hgwv3&si=0A8TVhSQsPOP84ND)
+
+## Resoluções dos Desafios
+
+Para cada desafio proposto, o professor também disponibiliza vídeos com a resolução e explicação detalhada:
+
+- [Playlist com as Resoluções dos Desafios](https://youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&si=OcZyNSNcDJV6m6FW)
+
+Estes vídeos mostram passo a passo como resolver cada desafio, ajudando no aprendizado e na fixação dos conceitos.
 
 ## Como usar
 
