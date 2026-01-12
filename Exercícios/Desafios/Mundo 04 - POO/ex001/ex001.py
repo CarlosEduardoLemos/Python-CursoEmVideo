@@ -12,7 +12,7 @@ class Gafanhato:
     def mensagem(self):
         print(f'Olá, eu sou {self.nome}, tenho {self.idade} anos e sou do sexo {self.sexo}.')
 
-# Definição de um objeto
+# Declaração de um objeto
 gafanhato1 = Gafanhato('Carlos', 27, 'M')
 gafanhato1.aniversario()
 print(gafanhato1.mensagem())
