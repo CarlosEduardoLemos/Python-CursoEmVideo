@@ -1,5 +1,5 @@
 #Declaração de classes
-class gafanhato:
+class Gafanhato:
     def __init__(self, nome, idade, sexo):
         self.nome = nome
         self.idade = idade
@@ -13,4 +13,5 @@ class gafanhato:
         print(f'Olá, eu sou {self.nome}, tenho {self.idade} anos e sou do sexo {self.sexo}.')
 
 # Definição de um objeto
-gafanhato1 = gafanhato('João', 20, 'M')
+gafanhato1 = Gafanhato('João', 20, 'M')
+print(gafanhato1.mensagem())
