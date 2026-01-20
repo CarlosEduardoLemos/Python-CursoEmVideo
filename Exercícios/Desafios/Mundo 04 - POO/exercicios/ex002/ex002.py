@@ -17,6 +17,8 @@ gafanhato1 = Gafanhato('Carlos', 27, 'M')
 gafanhato1.aniversario()
 print(gafanhato1.mensagem())
 
+print(gafanhato1.__doc__)
+
 gafanhato2 = Gafanhato('Ana', 52, 'F')
 print(gafanhato2.mensagem())
 
